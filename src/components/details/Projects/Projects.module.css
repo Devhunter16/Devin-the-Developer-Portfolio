@@ -1,0 +1,46 @@
+.projects {
+    display: flex;
+    flex-direction: column;
+    font-family: 'League Spartan', sans-serif;
+    background-color: white;
+    padding-top: .75rem;
+}
+
+.projectsHeader {
+    align-self: center;
+    color: #2F5698;
+}
+
+@media screen and (min-width: 768px) {
+    .projects {
+        padding-top: 1.75rem;
+    }
+    
+    .projectsHeader {
+        font-size: 1.75rem;
+    }
+}
+
+@media screen and (min-width: 800px) {
+    .projects {
+        padding-top: 2.5rem;
+    }
+}
+
+@media screen and (min-width: 880px) {
+    .projects {
+        padding-top: 3.25rem;
+    }
+}
+
+@media screen and (min-width: 1060px) {
+    .projectsHeader {
+        font-size: 2rem;
+    }
+}
+
+@media screen and (min-width: 1300px) {
+    .projects {
+        padding-top: 4rem;
+    }
+}

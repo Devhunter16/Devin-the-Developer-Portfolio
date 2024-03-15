@@ -1,0 +1,15 @@
+.headshot {
+    background-color: #2F5698;
+    padding: 2px 0px;
+    margin-top: .5rem;
+    width: 85%
+}
+
+@media screen and (min-width: 768px) {
+    .headshot {
+        background-color: white;
+        padding: 0 2rem 0 0;
+        margin-top: 2rem;
+        width: 50%;
+    }
+}

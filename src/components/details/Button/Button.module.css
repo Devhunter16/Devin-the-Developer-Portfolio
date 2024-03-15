@@ -1,0 +1,22 @@
+.button {
+    width: 95%;
+    padding: .6rem 1.85rem .5rem 1.5rem;
+    border: 0.1rem solid white;
+    border-radius: 1.25rem;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'League Spartan', sans-serif;
+    font-size: 1rem;
+    font-weight: 300;
+    color: white;
+    text-align: center;
+    background-color: #2F5698;
+    transition: all 0.2s;
+}
+
+.button:hover {
+    color: #2F5698;
+    background-color: white;
+    border: 0.1rem solid #2F5698;
+    cursor: pointer;
+}

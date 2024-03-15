@@ -1,0 +1,60 @@
+.project {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    background-color:#2F5698;
+    border: 2px solid #2F5698;
+    border-radius: 5px;
+    margin: .5rem 0 1rem 0;
+    padding-bottom: 1.4rem;
+}
+
+.projectTitle {
+    font-weight: 300;
+    font-size: 1.35rem;
+    text-shadow: 2px 2px 4px black;
+}
+
+.image {
+    width: 93%;
+    border-top: 2px solid white;
+    border-bottom: 2px solid white;
+    padding-top: 8px;
+    padding-bottom: 8px;
+} 
+
+.projectDescription {
+    font-size: 1.15rem;
+    line-height: 20px;
+    width: 90%;
+    padding-bottom: .25rem;
+}
+
+.links {
+    display: flex;
+    flex-direction: row;
+    gap: 0 35px;
+}
+
+@media screen and (min-width: 768px) {
+    .projectTitle {
+        font-size: 1.5rem;
+    }
+
+    .projectDescription {
+        font-size: 1.25rem;
+        line-height: 25px;
+    }
+}
+
+@media screen and (min-width: 1100px) {
+    .projectTitle {
+        font-size: 1.75rem;
+    }
+
+    .projectDescription {
+        font-size: 1.5rem;
+        line-height: 30px;
+    }
+}
