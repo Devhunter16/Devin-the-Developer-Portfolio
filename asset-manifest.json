@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Devin-the-Developer-Portfolio/static/css/main.dd901cf4.css",
-    "main.js": "/Devin-the-Developer-Portfolio/static/js/main.81514b0c.js",
+    "main.js": "/Devin-the-Developer-Portfolio/static/js/main.80e5856e.js",
     "static/media/YelpCamp.png": "/Devin-the-Developer-Portfolio/static/media/YelpCamp.ca1cdc48817924c0d90d.png",
     "static/media/DevMeals.png": "/Devin-the-Developer-Portfolio/static/media/DevMeals.8747fb824b50020df298.png",
     "static/media/IMG_1596.jpg": "/Devin-the-Developer-Portfolio/static/media/IMG_1596.b6a7b748c1cc3edb986a.jpg",
@@ -9,10 +9,10 @@
     "static/media/blue-jay.png": "/Devin-the-Developer-Portfolio/static/media/blue-jay.5517000bd58fc9efdbac.png",
     "index.html": "/Devin-the-Developer-Portfolio/index.html",
     "main.dd901cf4.css.map": "/Devin-the-Developer-Portfolio/static/css/main.dd901cf4.css.map",
-    "main.81514b0c.js.map": "/Devin-the-Developer-Portfolio/static/js/main.81514b0c.js.map"
+    "main.80e5856e.js.map": "/Devin-the-Developer-Portfolio/static/js/main.80e5856e.js.map"
   },
   "entrypoints": [
     "static/css/main.dd901cf4.css",
-    "static/js/main.81514b0c.js"
+    "static/js/main.80e5856e.js"
   ]
 }
