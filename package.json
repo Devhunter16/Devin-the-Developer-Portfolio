@@ -2,7 +2,7 @@
   "name": "landing-page-2.0",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://devhunter16.github.io/Devin-the-Developer-Portfolio",
+  "homepage": "https://devhunter16.github.io/Devin-the-Developer-Portfolio/public",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
