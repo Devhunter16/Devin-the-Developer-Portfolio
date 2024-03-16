@@ -32,7 +32,8 @@ const Projects = () => {
                     was created using HTML, Bootstrap, and JavaScript, and its backend was 
                     created using Node.js, Express.js, and MongoDB. It also uses Cloudinary 
                     to store images and Mapbox's Geocoding API to display the interactive 
-                    cluster map."
+                    cluster map. Please be aware that YelpCamp may initially take some time 
+                    to load."
                     webpage="https://yelpcamp-upon.onrender.com/"
                     github="https://github.com/Devhunter16/Yelp-Camp" />
                 <Project
