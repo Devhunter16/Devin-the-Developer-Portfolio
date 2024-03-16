@@ -11,7 +11,7 @@ const Intro = () => {
             </div>
             <p className={classes.intro}>
                 I'm Devin the developer. I'm a professional full-stack developer located in Tucson, Arizona &#127797;. I
-                keen eye for both the aesthetics and functionality of digital products.
+                have a keen eye for both the aesthetics and functionality of digital products.
                 User experience, beautiful pixels and writing clean, accessible code matters to me. I believe that
                 simplicity is important and I sweat the details.
             </p>
